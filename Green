@@ -1,0 +1,4 @@
+git clone https://github.com/cakedefi/merkle-proof-tool.git
+cd merkle-proof-tool
+npm install
+npm run build
